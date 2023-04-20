@@ -1,0 +1,50 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
+    "editor.fontFamily": "'mononoki NF'",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 18,
+    "terminal.integrated.fontFamily": "mononoki NF",
+    "terminal.integrated.fontSize": 16,
+    "workbench.colorTheme": "One Monokai",
+    "editor.defaultFormatter": "ms-vscode.cpptools-extension-pack",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+    "C_Cpp.formatting": "clangFormat",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "cmake.configureOnOpen": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[shellscript]": {
+        "editor.defaultFormatter": "shakram02.bash-beautify"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.startupEditor": "none",
+    "clips.clipsPath": "/usr/bin/clips",
+    "workbench.iconTheme": "symbols",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.productIconTheme": "fluent-icons",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    }
