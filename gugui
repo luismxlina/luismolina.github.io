@@ -1,1 +1,0 @@
-wget -r -np -nH --cut-dirs=2 -R index.html https://www.diariodesevilla.es/contenidos/programa-semana-santa-sevilla/index.php
